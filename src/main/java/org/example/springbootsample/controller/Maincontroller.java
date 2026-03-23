@@ -8,7 +8,7 @@ public class Maincontroller {
 
     @GetMapping("/")
     public String sample(){
-        return "Application is up with yugender code...";
+        return "Application is up with vinay  code...";
     }
 
 }
