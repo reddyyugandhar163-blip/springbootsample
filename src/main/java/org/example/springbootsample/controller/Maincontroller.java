@@ -8,7 +8,8 @@ public class Maincontroller {
 
     @GetMapping("/")
     public String sample(){
-        return "Applicatio my be any fristmer job +second times or third time changes";
+        return "Applicatio my be any fristmer job +second times or third time changes  +my changes are at 5th times bro "
+                ;
     }
 
 }
