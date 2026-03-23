@@ -8,7 +8,7 @@ public class Maincontroller {
 
     @GetMapping("/")
     public String sample(){
-        return "Application is up with vinay  code...";
+        return "Applicatio my be any fristmer job +second times or third time changes";
     }
 
 }
